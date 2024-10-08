@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fetch_Interview</string>
+    <string name="action_settings">Settings</string>
+    <string name="fragment_label">List View</string>
+
+    <string name="name_column_header">Name</string>
+    <string name="id_column_header">Id</string>
+    <string name="list_id_column_header">List Id</string>
+</resources>
